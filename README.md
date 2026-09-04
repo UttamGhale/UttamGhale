@@ -1,16 +1,59 @@
-## Hi there 👋
+# Hi, I'm Usham 👋
 
-<!--
-**UttamGhale/UttamGhale** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 💻 BIT Student | JavaScript Developer | Linux User
 
-Here are some ideas to get you started:
+I’m a BIT student focused on building practical web applications
+and improving my JavaScript and frontend development skills.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 What I'm Working On
+
+- 🌐 JavaScript & DOM manipulation
+- ⚛️ Learning React
+- 🐧 Arch Linux & Linux tooling
+- 🧩 Building practical web projects
+- 📚 Currently working through The Odin Project
+
+---
+
+## 🛠️ Technologies
+
+### Languages
+JavaScript • C • C++ • Python • SQL
+
+### Frontend
+HTML • CSS • JavaScript • React
+
+### Tools
+Git • GitHub • Linux • Vim • Docker
+
+---
+
+## 📌 Featured Projects
+
+### 🌱 Crop Recommendation System
+Machine-learning based application that recommends suitable
+crops based on environmental conditions.
+
+**Tech:** Python • Flask • Scikit-learn
+
+### 🩺 Breast Cancer Prediction
+Machine-learning application for predicting breast cancer
+using a trained classification model.
+
+**Tech:** Python • Scikit-learn • Streamlit
+
+---
+
+## 📚 Currently Learning
+
+JavaScript → React → Backend Development
+
+---
+
+## 📫 Contact
+
+[GitHub](https://github.com/UttamGhale)
+
+
