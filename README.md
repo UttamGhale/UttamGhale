@@ -27,12 +27,3 @@ HTML • CSS • JavaScript • React
 
 ### Tools
 Git • GitHub • Linux • Vim • Docker
-
----
-
-## 📚 Currently Learning
-JavaScript → React → Backend Development
----
-
-
-
