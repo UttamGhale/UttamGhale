@@ -9,7 +9,7 @@ and improving my JavaScript and frontend development skills.
 
 ## 🚀 What I'm Working On
 
-- 🌐 JavaScript & DOM manipulation
+- 🌐 JavaScript 
 - ⚛️ Learning React
 - 🐧 Arch Linux & Linux tooling
 - 🧩 Building practical web projects
